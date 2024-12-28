@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **the things I would want to learn like............ wait, why should I tell you?**
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Nothing**
 
 - 📫 How to reach me **ayushaagrawal56@gmail.com**
 
