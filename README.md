@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayusha9rawal&label=Profile%20views&color=0e75b6&style=flat" alt="ayusha9rawal" /> </p>
 
-- 🔭 I’m currently working on **the things I would want to learn like............ wait, why should I tell you?**
+- 🔭 I’m currently working on **many things all at once.**
 
 - 🌱 I’m currently learning **Nothing**
 
