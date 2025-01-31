@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayusha9rawal&label=Profile%20views&color=0e75b6&style=flat" alt="ayusha9rawal" /> </p>
 
 - 🔭 I’m currently working on **m**
-- I'm also lazy. Hence I find shortcuts for everything rather than working on something consistently
+- ------------------------------------
 - 🌱 I’m currently learning ****
 
 - 📫 How to reach me **ayushaagrawal56@gmail.com**
